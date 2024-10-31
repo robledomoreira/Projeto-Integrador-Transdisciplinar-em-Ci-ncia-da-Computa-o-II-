@@ -1,1 +1,1 @@
-# Projeto-Integrador-Transdisciplinar-em-Ci-ncia-da-Computa-o-II-
+Projeto Integrador Transdisciplinar em Ciência da Computação II 
